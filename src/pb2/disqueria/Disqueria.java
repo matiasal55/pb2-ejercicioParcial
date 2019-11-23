@@ -23,7 +23,7 @@ public class Disqueria {
 		return false;
 	}
 	
-	public void listaDeCdsOrdenadosPorTitulo() { //no es void
+	public void listaDeCdsOrdenadosPorAñoDePublicacion() { //no es void
 		
 	}
 	
