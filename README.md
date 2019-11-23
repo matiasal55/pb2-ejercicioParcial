@@ -6,12 +6,12 @@ A su vez tiene una lista de ventas la cual tiene el disco vendido, la cantidad y
 
 - Hacer los vínculos de herencia y composición correspondientes.
 - Implemente una interfaz o una clase abstracta si corresponde.
-- Hacer una lista de discos ordenados por artista y año de publicación y una lista de ventas ordenada por su id de venta.
+- Hacer una lista de discos sin un orden específico y una lista de ventas ordenada por su id de venta.
 - Hacer un método que agregue discos, sin verificar si los agregó o no.
 - Hacer un método que elimine un disco por su código.
 - Hacer un método que agregue una venta.
 - Hacer un método que elimine una venta por su id de venta.
-- Hacer un método que elabore una lista nueva donde se encuentren los cds ordenados por título.
+- Hacer un método que elabore una lista nueva donde se encuentren los cds ordenados por año de publicación.
 - Hacer un método que devuelva la cantidad de vinilos vendidos de color negro.
 - Hacer un método que devuelva la venta total de cds simples (una unidad). NO se refiere a la cantidad de venta, sino a la cantidad de cds.
 - Hacer un método que modifique el precio de un cd ingresando su código.
