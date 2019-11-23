@@ -15,6 +15,14 @@ public class Disqueria {
 		return false;
 	}
 	
+	public void agregarVenta() {
+		
+	}
+	
+	public Boolean eliminarVenta(Integer id) {
+		return false;
+	}
+	
 	public void listaDeCdsOrdenadosPorTitulo() { //no es void
 		
 	}

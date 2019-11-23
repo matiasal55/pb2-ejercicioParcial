@@ -22,6 +22,21 @@ public class testDisqueria {
 	}
 	
 	@Test
+	public void testQueAgregaUnaVenta() {
+		
+	}
+	
+	@Test
+	public void testQueEliminaUnaVenta() {
+		
+	}
+	
+	@Test
+	public void testQueEliminaUnaVentaInexistente() {
+		
+	}
+	
+	@Test
 	public void testQueEliminaUnDiscoInexistente() {
 		
 	}
