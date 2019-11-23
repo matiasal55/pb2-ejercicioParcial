@@ -5,7 +5,7 @@ Una disquería vende cds y vinilos. Toda la mercadería se encuentra en una list
 A su vez tiene una lista de ventas la cual tiene el disco vendido, la cantidad y el precio total en base a la cantidad. Se requiere:
 
 - Hacer los vínculos de herencia y composición correspondientes.
-- Hay interface? En caso que si, implemente de la manera correcta. Este punto NO se refiere a la interfaz de Comparator.
+- Implemente una interfaz o una clase abstracta si corresponde.
 - Hacer una lista de discos ordenados por artista y año de publicación y una lista de ventas ordenada por su id de venta.
 - Hacer un método que agregue discos, sin verificar si los agregó o no.
 - Hacer un método que elimine un disco por su código.
