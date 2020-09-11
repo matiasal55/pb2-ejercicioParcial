@@ -1,6 +1,8 @@
 # pb2-ejercicioParcial
 [PB2] Ejercicio Parcial 2
 
+Ejercicio que elaboré para mí y mis compañeros con el objetivo de practicar para el segundo parcial de la materia Programación Básica 2 que involucra el uso de herencia, polimorfismo y excepciones, entre otros temas.
+
 Una disquería vende cds y vinilos. Toda la mercadería se encuentra en una lista y tiene atributos en común. Sólo que para los vinilos se agregan además la cantidad de discos y el color del mismo, y en el caso de los cds se ingresa la cantidad de cds en un mismo título.
 A su vez tiene una lista de ventas la cual tiene el disco vendido, la cantidad y el precio total en base a la cantidad. Se requiere:
 
